@@ -42,21 +42,21 @@ La **Fibrosi Quística (FQ)** és una malaltia genètica greu i multisistèmica 
 
 ---
 
-## 📱 Captures de Pantalla
+## 📱 Captures de Pantalla (Mode Fosc)
 
 <div align="center">
 
-| Tauler de Control Diari | Guia de Medicació |
+| Tauler de Control Diari | Seguiment del Tractament |
 | :---: | :---: |
-| <img src="assets/dashboard.png" alt="Tauler de Control FQ-UP" width="420"/> | <img src="assets/medication.png" alt="Guia de Medicació" width="420"/> |
+| <img src="assets/dashboard-dark.png" alt="Tauler de Control Diari FQ-UP" width="380"/> | <img src="assets/treatment-dark.png" alt="Seguiment del Tractament" width="380"/> |
 
-| Fisioteràpia Respiratòria | Nutrició & Guies Clíniques |
+| Nebulització Guiada (Temporitzador) | Calculadora d'Enzims (Kreon®) |
 | :---: | :---: |
-| <img src="assets/physiotherapy.png" alt="Fisioteràpia Respiratòria" width="420"/> | <img src="assets/nutrition.png" alt="Nutrició i Enzims" width="420"/> |
+| <img src="assets/nebulize-dark.png" alt="Temporitzador de Nebulització" width="380"/> | <img src="assets/kreon-dark.png" alt="Calculadora Kreon" width="380"/> |
 
-| Benestar & Relaxació | Interfície Adaptada per a Escriptori |
+| Espirometria & Biomarcadors ($FEV_1$) | Zona de Benestar & Relaxació |
 | :---: | :---: |
-| <img src="assets/relaxation.png" alt="Zona de Relaxació" width="420"/> | <img src="assets/desktop-view.png" alt="Vista Escriptori" width="420"/> |
+| <img src="assets/trends-dark.png" alt="Tendències i Espirometria" width="380"/> | <img src="assets/relaxation-dark.png" alt="Zona de Relaxació" width="380"/> |
 
 </div>
 
